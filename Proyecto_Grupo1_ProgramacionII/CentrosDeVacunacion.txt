@@ -1,0 +1,4 @@
+101, Bulevar_Suyapa, Alonso_Suazo, 12000
+102, Bulevar_Suyapa, UNAH,10000
+103, Tiloarque, Instituto_Central, 10000
+104, Campo_Parada_Marte, Batallon, 11000
